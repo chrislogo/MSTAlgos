@@ -1,0 +1,5 @@
+2/8 - Began implementing Prim's algorithm and finished. Started out using own created structs but realized using a map would be much easier. Tested with test case on the write up and passed.
+
+2/9 - Began implementing Kruskal's algorithm and finished. Tested with test case on the write up and passed.
+
+2/10 - Ran more test cases on both algorthims to assure they worked. Ran the real world scenario test case for discussion. Wrote discussion.pdf.
